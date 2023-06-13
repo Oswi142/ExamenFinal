@@ -1,13 +1,12 @@
 function contar(a) {
     if(a=="hola")
     {
-        return "hola: 1";
+        var apariciones = 1;
     }
     else
     {
-        
+    apariciones = str.split(' ').length;  
     }
   }
-  
   export default contar;
   
