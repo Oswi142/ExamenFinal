@@ -5,7 +5,7 @@ function contar(a) {
     }
     else
     {
-    apariciones = str.split(' ').length;  
+    apariciones = a.split(' ').length;  
     }
   }
   export default contar;
