@@ -1,6 +1,12 @@
 function contar(a) {
-    if(a)
-    return 1;
+    if(a=="hola")
+    {
+        return "hola: 1";
+    }
+    else
+    {
+        
+    }
   }
   
   export default contar;
