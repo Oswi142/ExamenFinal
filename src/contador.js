@@ -1,6 +1,6 @@
 function contar(a) {
     if(a)
-    return a;
+    return 1;
   }
   
   export default contar;
